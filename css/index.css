@@ -77,8 +77,8 @@ section h2 {
 }
 
 .btn-social {
-  width: 3.25rem;
-  height: 3.25rem;
+  width: 4rem;
+  height: 4rem;
   font-size: 1.25rem;
   line-height: 2rem;
 }
@@ -213,11 +213,11 @@ h5 {
 }
 
 a {
-  color: #3be0d7;
+  color: #f9c228;
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: #ffffff;
 }
 
 .btn {
@@ -272,4 +272,9 @@ a:focus, a:hover, a:active {
     background-color: transparent;
     background-image: none;
     border-color: #3be0d7;
+}
+
+.insta {
+  color: #ffffff;
+
 }
