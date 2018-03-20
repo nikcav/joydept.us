@@ -1,1 +1,1 @@
-This is a website for our master's thesis project - Joy Dept.
+This is an informational website for our master's thesis project - Joy Dept.
