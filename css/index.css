@@ -201,6 +201,11 @@ h5 {
   text-align: center;
 }
 
+.roles{
+  font-size: .8rem;
+  text-align: center;
+  font-style: italic;
+}
 .footer {
   padding-top: 5rem;
   padding-bottom: 1rem;
